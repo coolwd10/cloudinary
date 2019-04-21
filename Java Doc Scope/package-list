@@ -1,0 +1,12 @@
+com.example.cloudinary.android
+com.example.cloudinary.android.di.component
+com.example.cloudinary.android.di.module
+com.example.cloudinary.android.mvp.core.base
+com.example.cloudinary.android.mvp.main.home
+com.example.cloudinary.android.mvp.main.home.model
+com.example.cloudinary.android.mvp.main.home.mvp
+com.example.cloudinary.android.util
+com.example.cloudinary.data.source
+com.example.cloudinary.data.source.remote
+com.example.cloudinary.domain
+com.example.cloudinary.domain.IView
