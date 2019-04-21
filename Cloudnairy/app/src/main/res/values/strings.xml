@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cloudnairy</string>
+    <string name="hint_text">enter file name</string>
+    <string name="warning">Warning</string>
+    <string name="cancel">Cancel</string>
+    <string name="neutral">NEUTRAL</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="file_name_error">Please enter the file name</string>
+    <string name="global_OK_label">Ok</string>
+    <string name="not_now_text">Not Now</string>
+
+</resources>
