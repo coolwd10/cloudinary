@@ -76,7 +76,7 @@ https://cloudinary.com/documentation/android_integration
 * annotationProcessor 'com.jakewharton:butterknife-compiler:8.8.1'
 
 
-
+4.Added Some UI test cases.
 
 
 
